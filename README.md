@@ -13,5 +13,8 @@ The API keys in this repository are stored locally with my RapidAPI account. To 
 
 From there, the application should work fine from there since the "keys.py" that is created is already imported in the main file (weatherapp.py)
 
+![Weather App - StartUp](/images/Weather%20App%20-%20StartUp.pngimg.png)
+
+![Weather App - Submitting User Input](/images/Weather%20App%20-%20Submitting%20User%20Input.png)
 
 ## ENJOY!
